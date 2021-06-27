@@ -1,2 +1,2 @@
 import SearchPanel from "./search-panel";
-export {SearchPanel};
+export default SearchPanel;
